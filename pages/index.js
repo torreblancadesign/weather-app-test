@@ -1,6 +1,6 @@
 
 import React from 'react';
-import CustomComponent from './CustomComponent';
+import CustomComponent from './components';
 
 function App() {
   return (
